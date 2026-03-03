@@ -1,0 +1,37 @@
+:root {
+/* ============================= */
+/* COLOR — BUTTON — BACKGROUND */
+/* ============================= */
+  --color-button-bg-default: #D2C2B2;
+  --color-button-bg-hover: #9C856B;
+  --color-button-bg-pressed: #504532;
+  --color-button-bg-disabled: #B5B5B5;
+
+/* ============================= */
+/* COLOR — BUTTON — TEXT */
+/* ============================= */
+  --color-button-text-default: #34312E;
+  --color-button-text-hover: #D0C8C0;
+  --color-button-text-pressed: #D0C8C0;
+  --color-button-text-disabled: #34312E;
+
+ /* ============================= */
+/* SIZE — BUTTON */
+/* ============================= */ 
+  --size-button-height-sm: 44px;
+  --size-button-padding-y-sm: 10px;
+  --size-button-padding-x-sm: 24px;
+  --size-button-min-width-default: 88px;
+
+  /* RADIUS — BUTTON */
+  --radius-button: 8px;
+
+  /* FONT- FAMILY — BUTTON */
+  --font-family-base: "Inter", sans-serif;
+
+  /* FONT — SIZE - BUTTON */
+  --text-button-sm-font-size: 12px;
+  --text-button-sm-line-height: 16px;
+  --text-button-sm-weight: 400;
+  --text-button-sm-letter-spacing: 0.024px;
+}
